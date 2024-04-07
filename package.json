@@ -1,0 +1,22 @@
+{
+  "name": "assignment-18",
+  "version": "1.0.0",
+  "description": "Day 02 - REACT ASSIGNMENT\r Please Note: Write the answers and code on your own while finishing your assignments. Try to put down your thoughts into words by yourself in your own words. (This will help you develop muscle memory and you will remember all the concepts properly) ✌",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "browserslist":[
+     "last 100 versions"
+    ] 
+}
